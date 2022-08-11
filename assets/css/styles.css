@@ -1,0 +1,30 @@
+header {
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+main {
+    background-color: beige;
+}
+
+.about-me {
+    background-color: violet;
+}
+
+.work {
+    background-color: yellowgreen;
+}
+
+footer {
+    background-color: chartreuse;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+img {
+    padding: 5px;
+}
